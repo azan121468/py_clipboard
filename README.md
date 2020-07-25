@@ -4,3 +4,5 @@ This script get the text instantly and print on screen when it is copied from an
 script will exit if you copy exit
 if you want to save all text in a file
 remove all the comments in program
+You will need to install pyperclip module by typing
+   pip install pyperclip
